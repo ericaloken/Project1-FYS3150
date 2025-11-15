@@ -1,5 +1,6 @@
 # Project 1 - Solving the 1D Poisson Equation
-Project 1 was completed individually by Erica Løken.
+_This repository contains the work done by Erica Løken for Project 1 in the course 
+FYS3150 – Computational Physics at the University of Oslo._
 
 This project folder is organized into 4 subfolders [src](./src), [python](./python), [results](./results) and [report](./report).
 

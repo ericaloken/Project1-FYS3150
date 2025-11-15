@@ -1,0 +1,32 @@
+# C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.app
+*.so
+*.dylib
+*.dll
+
+# Local binaries
+problem2
+problem7
+problem9
+problem10
+src/problem7
+src/problem9
+src/problem10
+
+# Generated outputs
+output_problem2.txt
+output*
+*.txt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editors / OS
+.DS_Store
+*.swp
+.vscode/
